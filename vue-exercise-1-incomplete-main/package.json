@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "vue": "^3.5.24"
-  }
-}
-=======
   "name": "masterclass-cooking-workshop",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +24,6 @@
     "root": true,
     "env": {
       "node": true
-      
     },
     "extends": [
       "plugin:vue/vue3-essential",
@@ -48,4 +41,3 @@
     "not ie 11"
   ]
 }
->>>>>>> d9a603c8b18ec77ca26eaa1a65cc9bc5e631a36c
